@@ -8,13 +8,11 @@ Play this game in [Scratch](https://scratch.mit.edu/projects/391694117/)
 ## Instructions
 Use Left/Right arrow keys to move, avoid traffic and stay on road.
 
-| Keys         | Action       |
-| ------------ | ------------ |
-| <kbd>←</kbd> | Steer Left   |
-| <kbd>→</kbd> | Steer Right  |
-| <kbd>A</kbd> | Move Left    |
-| <kbd>D</kbd> | Move Left    |
-| <kbd>H</kbd> | Honk         |
-| <kbd>R</kbd> | Restart Game |
+| Keys                         | Action              |
+| ---------------------------- | ------------------- |
+| <kbd>←</kbd> or <kbd>→</kbd> | Steer Left or Right |
+| <kbd>A</kbd> or <kbd>D</kbd> | Move Left or Right  |
+| <kbd>H</kbd>                 | Honk                |
+| <kbd>R</kbd>                 | Restart Game        |
 
-[![game play](car-dodge-game-scratch.gif)]
+![game play](car-dodge-game-scratch.gif)
